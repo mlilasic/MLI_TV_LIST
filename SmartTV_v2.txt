@@ -108,3 +108,34 @@ www.samsungotn.net # required for software update
 osb-ussvc.samsungqbe.com # required for TV Plus
 otn.samsungcloudcdn.com # Prevents updates on UE49KS7000 and QE55Q9FNA; https://github.com/Perflyst/PiHoleBlocklist/issues/60
 ns11.whois.co.kr # Prevents Series 7 TVs from opening YouTube
+
+#  sa  https://www.avforums.com/threads/samsung-2020-qled-series-tv-motion-judder-stutter-frame-rate-firmware-bug-glitch.2311975/post-30124574
+msecnd.net # samsung fw update server
+samsungotn.net # samsung fw update server
+samsungcloudsolution.net # samsung fw update server
+osb-apps.samsungqbe.com # J series blocking widget delete
+otn-prd-proxy.cloudapp.net # samsung fw update server
+www.samsungotn.net # samsung fw update server
+otn.samsungcloudcdn.com # samsung fw update server
+az28248.vo.msecnd.net # samsung fw update server
+az43064.vo.msecnd.net # samsung fw update server #(forced-entry)
+osb-v2.samsungqbe.com # samsung fw update server
+cdn.samsungcloudsolution.com # Samsung server (firmware)???
+lcprd1.samsungcloudsolution.net
+gpm.samsungqbe.com # NFI but I will better block this
+notice.samsungcloudsolution.com # some notice sh*t from samsung
+osb-apps-v2.samsungqbe.com # some appas stuff (if needed unblock it)
+osb-auth-eusvc-v2.samsungqbe.com # some server for authentication
+samsungiotcloud.com # apps server (this time for install apps from develop mode I needed it unblocked
+gld.push.samsungosp.com # no se que es de momento
+ocfconnect-shard-eu02-euwest1.samsungiotcloud.com # this one also needed to unblock for some smarthub stuff apps
+
+
+# sa  https://github.com/Perflyst/PiHoleBlocklist/issues/49
+otn.samsungcloudcdn.com
+otnprd10.samsungcloudsolution.net
+otnprd11.samsungcloudsolution.net
+otnprd9.samsungcloudsolution.net
+www.samsungotn.net
+samsungqbe.com
+osb-ussvc.samsungqbe.com
